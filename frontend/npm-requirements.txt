@@ -1,0 +1,17 @@
+@tiptap/react
+@tiptap/starter-kit
+@tiptap/extension-paragraph
+@tiptap/extension-text
+@tiptap/extension-bold
+@tiptap/extension-italic
+@tiptap/extension-underline
+@tiptap/extension-heading
+@tiptap/extension-image
+@tiptap/extension-hard-break
+@tiptap/extension-history
+@tiptap/extension-document
+@tiptap/extension-table
+@tiptap/extension-table-row
+@tiptap/extension-table-cell
+@tiptap/extension-table-header
+@tiptap/extension-html
