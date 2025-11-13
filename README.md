@@ -8,7 +8,6 @@ Open-source web app to upload DOCX/PDF, edit while preserving formatting, auto-d
 - Backend: FastAPI (Python)
 - DOCX -> HTML: mammoth
 - PDF extraction: PyMuPDF (fitz)
-- Packaging: Docker (optional)
 
 ## Run locally (dev)
 ### Backend
