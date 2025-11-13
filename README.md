@@ -230,22 +230,6 @@ It is fully anonymized and generated using safe filler content.
 
 ---
 
-# 🙌 11. Credits & Notes
-
-This project was built as part of an **AI/ML Engineer Assessment**.  
-It demonstrates full-stack skills including:
-
-- Document parsing  
-- HTML processing  
-- Section extraction  
-- Client-side editing  
-- REST API design  
-- Docker deployment  
-- JSON/DOCX/PDF export  
-
----
-
-# 🚀 How to Run Everything (Short Version)
 
 ### Backend
 ```
@@ -260,11 +244,6 @@ uvicorn app.main:app --reload --port 8000
 cd frontend
 npm install
 npm start
-```
-
-### Docker (both services)
-```
-docker-compose up --build
 ```
 
 ---
